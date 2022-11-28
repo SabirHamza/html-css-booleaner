@@ -45,9 +45,34 @@
     font-size: 75%;
 }
 
-.paragrafo1{
+.paragrafo1, .paragrafo2{
     margin-left: 5px;
     margin-top: 20px;
 }
+
+.list{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+table{
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+td{
+    width: 30%;
+}
+
+.row1{
+    background-color: lightskyblue;
+}
+
+.row2, .row4{
+    background-color: lightblue;
+}
+
+
+
 
 
