@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.head {
+.head{
     height: 200px;
     background-image: url("../img/pattern.png");
     background-color: lightblue;
@@ -16,4 +16,24 @@
     left: 10px;
     bottom: 20px;
 }
+
+.title{
+    font-size: 350%;
+    margin: 5px;
+}
+
+.credits{
+    font-size: 150%;
+}
+
+.credits, .date{
+    margin-left: 5px;
+    color: grey;
+}
+
+.font-color{
+    color: lightblue;
+}
+
+
 
